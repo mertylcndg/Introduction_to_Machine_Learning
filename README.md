@@ -1,1 +1,1 @@
-# Introduction_to_Machine_Learning_Assignments
+# Introduction to Machine Learning Assignments
