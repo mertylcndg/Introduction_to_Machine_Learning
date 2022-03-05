@@ -5,4 +5,4 @@
 ## Week 2
 * [DTS for Beginners](DTS_for_Beginner.ipynb)
 ## Week3
-* [Week2_and_Week3_Homework](Week1_and_Week2_Homework.ipynb)
+* [Week2_and_Week3_Homework](Week2_and_Week3_Homework.ipynb)
