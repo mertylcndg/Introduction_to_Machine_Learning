@@ -7,3 +7,4 @@
 ## Week3
 * [Week2_and_Week3_Homework](Week2_and_Week3_Homework.ipynb)
 * [Digit Dataset Examination](Digit_Dataset_Examination.ipynb)
+* [iris Dataset Examination](iris_Dataset_Examination.ipynb)
