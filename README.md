@@ -10,3 +10,4 @@
 * [iris Dataset Examination](iris_Dataset_Examination.ipynb)
 ## Week4
 * [Tumor Dataset K Neighbors Classifier](KNC_tumor_Dataset.ipynb)
+* [KNN Classification With Biomechanical Features of Orthopedic Patients](KNN_Classification_with_Biomechanical_Features_of_Orthopedic_Patients.ipynb)
