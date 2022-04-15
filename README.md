@@ -18,5 +18,7 @@
 ## Week6
 * [Logistic Resgression Breast Cancer Wisconsin Data Set](Logistic_Resgression_Breast_Cancer_Wisconsin_Data_Set.ipynb)
 * [Logistic Reg With Diabets Dataset](Logistic_reg_whit_diabetsDataset.ipynb)
+## Week7
+* [SVM and GaussianNB With Cancer Dataset](SVM_and_GaussianNB_With_Cancer_Dataset.ipynb)
 ## Challenge
 * [One vs One Sign Language Digits Dataset](One_vs_One_Sign_Language_Digits_Dataset.ipynb)
